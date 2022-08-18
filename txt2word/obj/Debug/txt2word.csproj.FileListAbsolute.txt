@@ -1,0 +1,8 @@
+C:\Users\Awire\source\repos\txt2word\txt2word\bin\Debug\txt2word.exe.config
+C:\Users\Awire\source\repos\txt2word\txt2word\bin\Debug\txt2word.exe
+C:\Users\Awire\source\repos\txt2word\txt2word\bin\Debug\txt2word.pdb
+C:\Users\Awire\source\repos\txt2word\txt2word\obj\Debug\txt2word.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\txt2word\txt2word\obj\Debug\txt2word.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\txt2word\txt2word\obj\Debug\txt2word.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\txt2word\txt2word\obj\Debug\txt2word.exe
+C:\Users\Awire\source\repos\txt2word\txt2word\obj\Debug\txt2word.pdb
