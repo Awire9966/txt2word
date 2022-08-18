@@ -11,9 +11,9 @@ namespace txt2word
     {
         static void Main(string[] args)
         {
-            Application wordApp = new Application();
-            Document wordDoc = wordApp.Documents.Add();
-            wordDoc.BuiltInDocumentProperties["Author"].Value = "txt2word by Awire9966 on github.";
+            Application App = new Application();
+            Document Doc = App.Documents.Add();
+            Doc.BuiltInDocumentProperties["Author"].Value = "txt2word by Awire9966 on github.";
             
             
             StringBuilder stringBuilder = new StringBuilder();
@@ -21,8 +21,8 @@ namespace txt2word
             using (BufferedStream bs = new BufferedStream(fs))
             using (StreamReader sr = new StreamReader(bs))
             {
-                wordDoc.Content.Text = sr.ReadToEnd();
-                wordDoc.SaveAs(args[1]);
+                Doc.Content.Text = sr.ReadToEnd();
+                Doc.SaveAs(args[1]);
             }
            
         }
